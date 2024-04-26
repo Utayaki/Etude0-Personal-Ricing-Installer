@@ -5,7 +5,7 @@ yay -Syyu
 yay -S xwinwrap-0.9-bin xf86-video xorg-xinput
 
 # Load NVIDIA Drivers
-yay -S nvidia-lts nvidia-utils nvidia-container-toolkit libnvidia-container cuda cudnn cuda-tools
+yay -S nvidia-lts nvidia-utils cuda cudnn cuda-tools
 
 # Load base packages
 yay -S bspwm sxhkd rofi polybar mpv thunar btop mousepad fcitx5 libreoffice-still nvim alacritty flameshot deluge filezilla xarchiver
