@@ -2,7 +2,7 @@
 yay -Syyu
 
 # Load X11
-yay -S xwinwrap-0.9-bin xf86-video xorg-xinput
+yay -S xwinwrap-0.9-bin xf86-video xorg-xinput xorg xorg-xinit
 
 # Load NVIDIA Drivers
 yay -S nvidia-lts nvidia-utils cuda cudnn cuda-tools
